@@ -1,8 +1,6 @@
-    1  [200~wget -O libro_claude_api.zip   https://github.com/PacktPublishing/Claude-API-for-Developers---Building-Intelligent-Applications/archive/refs/heads/main.zip~
-    2  wget -O libro_claude_api.zip   https://github.com/PacktPublishing/Claude-API-for-Developers---Building-Intelligent-Applications/archive/refs/heads/main.zip
-    3  ls
-    4  unzip libro_claude_api.zip 
-    5  clear
+    1  ls -l
+    2  cat app.py 
+    3  cd templates/
+    4  ls
+    5  cat index.html 
     6  history > historial2.txt
-    
-    dd
